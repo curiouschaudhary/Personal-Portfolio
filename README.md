@@ -52,3 +52,17 @@ Welcome to my personal portfolio website built using **Flask**, **HTML**, and **
    cd portfolio-website-flask
 
 
+
+---
+
+### 🖼 How to Add Screenshots on GitHub:
+
+1. Create a folder in your project directory named `screenshots`.
+2. Save images like `home.png`, `projects.png`, `contact.png` in it.
+3. Push everything to GitHub.
+4. Images will auto-render using:
+   ```markdown
+   ![Alt Text](screenshots/image-name.png)
+
+
+
